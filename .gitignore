@@ -1,3 +1,6 @@
 *.txt
 assets/img/*.txt
-assets/img/favicons/*.txt
+assets/img/favicons/*.tx
+404/.gitignore
+
+
